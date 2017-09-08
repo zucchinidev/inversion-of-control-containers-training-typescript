@@ -1,0 +1,40 @@
+{
+  "name": "inversify-basic-example",
+  "version": "1.0.0",
+  "description": "A basic example that showcases how to setup InversifyJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zucchinidev/inversion-of-control-containers-training-typescript"
+  },
+  "keywords": [
+    "inversifyjs",
+    "basic",
+    "example",
+    "dependency",
+    "injection",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Andrea Zucchini <azga84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zucchinidev/inversion-of-control-containers-training-typescript/issues"
+  },
+  "homepage": "https://github.com/zucchinidev/inversion-of-control-containers-training-typescript#readme",
+  "dependencies": {
+    "inversify": "4.3.0",
+    "reflect-metadata": "0.1.10"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-tslint": "8.1.1",
+    "gulp-typescript": "3.2.2",
+    "run-sequence": "2.1.0",
+    "typescript": "2.5.2",
+    "tslint": "5.7.0"
+  }
+}
