@@ -28,4 +28,17 @@ FIGHT!
                 Ninja (Shuriken)
                 vs
                 Samurai (Katana)
+Order :
+     Customer:
+            Name: Sam Bowman
+            Address: 707 Furim Path
+
+     Products:
+        Product (Glasses):
+                          Price: 100
+                          ProductId: 1d06bdb0-94d7-11e7-97d6-17401f7a4e03
+        Product (Keyboard):
+                          Price: 16
+                          ProductId: 1d06bdb1-94d7-11e7-97d6-17401f7a4e03
+
 ```
